@@ -10,7 +10,7 @@
 <body>
     <div class="text-center pt-[210px]">
         <p class="text-4xl text-sky-600 font-semibold">404</p>
-        <h1 class="mt-4 font-bold tracking-tight text-3xl text-gray-900 sm:text-5xl"> Halaman tidak ditemukan</h1>
+        <h1 class="mt-4 font-bold tracking-tight text-3xl text-gray-900 sm:text-5xl"> Halaman yang Anda cari tidak ditemukan</h1>
         <p class="mt-6 text-base leading-7 text-gray-500">Maaf, Halaman yang Anda cari tidak tersedia atau sudah dipindahkan</p>
 
         {{-- tombol --}}
